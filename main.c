@@ -1,4 +1,4 @@
-#include<stdio.h>
-int main()
+void sum(int x,int y)
 {
+	printf("%d\n",x+y);
 }
