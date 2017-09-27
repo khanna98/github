@@ -2,7 +2,7 @@
 
 ## This is a new heading ##
 
-** This text is BOLD. **
+_This text is BOLD._
 
 These are bullets :
 - ABC
